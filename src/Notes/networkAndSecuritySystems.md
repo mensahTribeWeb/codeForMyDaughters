@@ -321,7 +321,10 @@ security threats to the network.
 
         -There are many ways in which sensitive data can be lost or destroyed, including hardware 
         crashes, human errors, viruses, hackers, or malware.
+        -IT disasters should be avoided at all cost, securing data is esential to the organization
 
+    -Internal Recovery Strategies
+        all businesses should have a disaster recovery plan
 
 ##Ch 8. Network Auditing & Configuration
 
