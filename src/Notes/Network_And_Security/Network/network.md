@@ -87,15 +87,117 @@
 ###Importance of communication
 
   **Communication Networks**
- **1. File Sharing: Multimedia**
- **2. Hardware Sharing: Backup and Recovery**
- **3. Messaging and Communicating**
- **4. Web Access: Web Browser Applications**
+    an is a network of a group of devices comprising hardware and 
+    software connected together, whether in the same geographical 
+    location or globally to facilitate communication and information sharing.
+
+  Modern communication network consist of servers, clients, transmission media, data, operating systems, 
+  switches, routers, cables, printers, and various peripheral devices extending communication 
+  between devices from local area networks to globally covered networks.
+
+  **1. File Sharing: Multimedia**
+  the sharing or distribution of computer data and files. can range from 2kb or 25 Gb, can be in a 
+    local network or across the world
+  like your disney+ netflix or evan amazon its our phone and mobile devices make this possible,
+    when we were kids we used VHS or cassette tapes or even CDs
+
+  **2. Hardware Sharing: Backup and Recovery**
+     Hardware can be expensive, with servers gaining popularity cloud computing is gaining stem
+    which is nothing more than just storing everything on servers and sharing the cost with bigger
+    companies. 
+     There is no need to incur the costs of building or acquiring physical proprietary infrastructure
+   in data servers and backup solutions. The responsibility of securing and maintain the integrity
+   of your data and information is in the hands of the service host. Using these remote services 
+   is not only financially economical to companies and business but also allows them to maintain 
+   he is high standards they need in the competitive world.
+     GitHub, AWS and Google Drive  are a few i have studied
+
+
+  **3. Messaging and Communicating**
+   Chat messages, emails, and correspondence sent and received within fractions of a second through
+  various channels comprising the communications networks.
+  With access to shared data storage and applications stored on cloud servers, a constant flow of
+  communication is established between various Local Area Networks (LANs) and Wide Area Networks (WANs).
+
+
+  **4. Web Access: Web Browser Applications**
+   Web browser applications allow users to search, access, and display web pages.
+    we use URls Uniform Resource Locators, which are addresses of the web. with authentication 
+    web resources are everywhere knowledge is everywhere, the sky isnt even the limit to the 
+    capabilities that you could learn.
 
 ### ___focus on:___
+   1) communication is essential especially in tech
+   2) communication networks, which are networks of groups 
+    of devices comprising hardware and software connected together
+   3) you can communicate locally(LANs) or across the world(WANs)
+   4) everything we do today is  supported by communication networks, so when you are on the phone
+        internet watching YouTube, Disney, or even emails are all communication networks.
 
 ### the Components of a Telecommunications System
+  **Telecommunications Systems**
+    nodes and links to enable telecommunication, Telecommunication systems allow distant communication 
+    using electrical signals or _electromagnetic waves_ and some basic components to support the system
+
+  **Components of a Telecommunication System**
+   a telecommunication system includes a transmitter to take information and convert it to a signal, 
+  a transmission medium to carry the signal and a receiver to take the signal and convert it back 
+  into usable information. This applies to any communication system, whether it uses computers or 
+  not.
+   today communication systems are basically networks, 6 components to networks are:
+    
+   1) **terminals** input and output devices, starting and stopping points are established
+   2) Channels which transmit and receive data
+   3) processors, which provide a number of control and support functions (converting from analog to digital)
+   4) Control software, which is responsible for controlling the functionality and activities of the network
+   5) data in the form of messages 
+   6)  Protocols(rules) TCP/IP is a protocol for communications over the Internet. I use this to make APIs
+
+  in a network.
+
+  **Computer Network**
+
+   computer network is a system of computers and peripheral devices that are connected 
+    electronically.
+   Each computer has its own network address, so it can be uniquely identified among all the computers
+
+  **Different Types of Networks**
+
+   1) networks include: 
+   2) network size: how broad a network expands LAN(building) WAN(country) 
+   3) transmission media: the means or material the data is transferred physical(wired) or electromagnetic(wireless)
+   4) management method: 
+      1) peer-to-peer: P2P task allocated amongst all members without hierarchy
+      2) mainframes : (server) a very powerful computer does all the processing, and very basic terminals
+      3) client/server:users request resources from the network typically servers
+      
+   5) network topology: The layout of the interconnections between the computers in a network 
+
+
+  **Network Properties**
+   networks can be broken down in terms of bandwidth, cost and reliability
+
+  1) Bandwidth: the amount of data that can be transferred over a network per second
+     1) wireless 11 and 54 Mbit/s
+     2) Ethernet 1 Gbit/s or more
+     
+  2) Cost: installing the network hardware, such as cables and switches,
+    and the cost of running and maintaining the system.
+  3) Reliability:  how often the network does not perform as expected, reliable systems have backups
+  
 ### ___focus on:___
+  -A telecommunications system is a collection of nodes and links to enable telecommunication
+
+    The six basic components of a telecommunication system are:
+
+    Input and output devices
+    Telecommunication channels
+    Telecommunication processors
+    Control software
+    Messages
+    Protocols
+-A computer network is a system of computers and peripheral devices that are connected electronically.
+
 ### What is a Client-server Network
 ### ___focus on:___
 ### Network Architecture
