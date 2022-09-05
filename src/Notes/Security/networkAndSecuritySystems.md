@@ -324,8 +324,22 @@ security threats to the network.
         -IT disasters should be avoided at all cost, securing data is esential to the organization
 
     -Internal Recovery Strategies
-        all businesses should have a disaster recovery plan
-
+        all businesses should have a disaster recovery plan(DRP)
+            1) creating an inventory of the hardware and software
+            2)identifying critical information and plan to reqularly back up data
+            3) having back-up computers and servers for re-installation
+                and replication of critical software and data
+            4) mirroring data and servers between two or more sites so
+                that if one site fails the other site can take over
+        *in the event of an IT disaster, the goal is to have the business up
+            and running with minimal downtime and with little or no loss of data.
+    -Vendor Supported Recovery Strategies
+        -some buisnesses do not have the infustructure to maintain their
+            own data
+        -vedors provide software buisnesss owners can purchase to ensure
+        that all data and 
+    -Data Backup
+    -Components of an DRP
 ##Ch 8. Network Auditing & Configuration
 
 
