@@ -75,3 +75,64 @@ https://gist.github.com/911a225a361ea36ad2b33a1cadf93829
 ## Arrow Function
 
 https://gist.github.com/75269f5de06a74b353d7b790d38b7c0e
+
+## Scope
+
+scope defines when and where variables can be accessed or referenced. the scope can be defined globally or locally.
+
+the context in which our variables are declared.
+
+## Blocks and Scope
+
+the block is the code found inside of curly braces of functions and if statements. inside the block tends to be the local scope.
+
+### example
+https://gist.github.com/09aa5f833a7b3526c2708850469f17b4
+
+## Global Scope
+
+this is when a variable is declared outside of the local code block. these are called global variables.
+
+global variables can be accessed inside of the functions code block.
+
+### example
+
+https://gist.github.com/6190f127948aa8cd1938a862949314f9
+
+## Block Scope
+
+the variable is defined inside of the the local code block. this is called block scope because it is only accessible to the lines in the block.
+
+trying to access this block scope variable outside of the scope will result in a ReferenceError
+
+## examples
+
+https://gist.github.com/88ad203ee8ea27e6b142db4152612d95
+
+## Scope Pollution
+
+when creating a global variable, they go to the global namespace.
+
+scope pollution : is when their are to many global variables, which makes it difficult to keep track of the many variables.
+
+global variables can collide with local variables.
+
+### examples
+https://gist.github.com/2da7236e4e6136be0635489c79261acb
+
+## Practice Good Scoping
+tightly scoping variables will greatly improve your code.
+- the blocks will organize the code into discrete sections.
+- this clarifies the code so that the code is easier to read.
+- since the code is modular the code is easier to maintain.
+- it saves memory because the variable is used when needed.
+
+### example
+
+https://gist.github.com/bc27e8a98ea0d7c9d29c0c5482a606d1
+
+https://gist.github.com/788e82d1edf3d5a2b3e5eb290059e719
+
+https://gist.github.com/b0386f03508e18c869d87f789eb3ead2
+
+
