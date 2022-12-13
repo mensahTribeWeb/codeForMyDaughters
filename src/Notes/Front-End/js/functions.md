@@ -135,4 +135,18 @@ https://gist.github.com/788e82d1edf3d5a2b3e5eb290059e719
 
 https://gist.github.com/b0386f03508e18c869d87f789eb3ead2
 
+https://gist.github.com/186a6e4a24911604779caa1c6f4dc70d
+
+https://gist.github.com/e7ce5ec003e43364828ff945367c436d
+
+https://gist.github.com/7aa6dc2e2711ff9ad8aa4718ff98c65d
+
+https://gist.github.com/68cabf8e6b64f5ce50d3c80963ca5c23
+
+https://gist.github.com/62c82dcad5165add5297166065d141ab
+
+https://gist.github.com/eb5ec40112db8e10af132a4147d05feb
+
+https://gist.github.com/97183c63c060161c8769e08336fe31cf
+
 
